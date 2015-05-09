@@ -1,0 +1,4 @@
+ishikawa , 10
+oya , 10
+okumura , 30
+ishibashi , 100000000000000
